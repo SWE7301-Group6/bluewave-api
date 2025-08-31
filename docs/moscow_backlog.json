@@ -1,0 +1,65 @@
+{
+  "updated_at": "2025-08-26T10:45:51.595059Z",
+  "items": [
+    {
+      "id": "US-01",
+      "title": "MoSCoW prioritisation",
+      "priority": "Must",
+      "type": "NF"
+    },
+    {
+      "id": "US-05",
+      "title": "Flask API",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-06",
+      "title": "OpenAPI + Swagger",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-07",
+      "title": "HTTP methods",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-08",
+      "title": "JSON format",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-09",
+      "title": "Param-based filtering",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-10",
+      "title": "Store observation data",
+      "priority": "Must",
+      "type": "F"
+    },
+    {
+      "id": "US-11",
+      "title": "Prevent edits before current quarter",
+      "priority": "Should",
+      "type": "F"
+    },
+    {
+      "id": "US-12",
+      "title": "Bulk operations",
+      "priority": "Should",
+      "type": "F"
+    },
+    {
+      "id": "US-13",
+      "title": "JWT Authentication",
+      "priority": "Should",
+      "type": "NF"
+    }
+  ]
+}
